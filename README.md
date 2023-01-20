@@ -1,2 +1,1 @@
-# spring-resource-server-jwt-master
-Spring Security Auth 2.0 implementation
+# Spring OAuth 2.0 Resource Server with Access + Refresh Tokens
